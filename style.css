@@ -20,6 +20,11 @@
 	display: flex;
 }
 
+.img{
+	justify-content: center;
+	display: flex;
+}
+
 .footer {
   background: #F4F4F4;
   display: flex;
@@ -34,7 +39,7 @@
   align-items: center;
 }
 .footer-links a {
-  color: black;
+  color: brown;
   opacity: 0.15;
   text-decoration: none;
   font-size: 24px;
@@ -48,3 +53,16 @@
 }
 
 
+h1{
+color:brown;
+font-size: 38px;
+font-family: 'Slabo 27px', serif;
+text-align: center;
+}
+
+p{
+	color:black;
+	font-size: 20px;
+	font-family: 'Noto Sans HK', sans-serif;
+	text-align: center
+}
